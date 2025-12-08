@@ -39,19 +39,19 @@
 
 
 ## Experience ✨ :
-- **Data Science with Advanced Gen AI @ Innomatics Research Labs :**
+- **Data Science with Advanced Gen AI @ Innomatics Research Labs (Nov 2025 - Present) :**
   -  Actively engaging in assigned projects, products, and trainings related to Data Science, Artificial Intelligence, Machine Learning, and GenAI.
   -  Applying theoretical concepts and putting best efforts into executing complex tasks to continuously upskill in advanced analytics and model development.
   -  Acknowledged the highly confidential nature of the association and the requirement to keep all business information strictly confidential.
-- **Project Management Associate @ Excelerate :**
+- **Project Management Associate @ Excelerate (Oct 2025 - Nov 2025) :**
   - Led team efforts to develop a comprehensive project plan for a Global Career Fair.
   - Directed the team's research and assessment of AI project management tools for task automation, resource allocation and risk management.
   - Compiled and presented the team's consolidated research and testing insights, delivering actionable AI integration recommendations to project associates.
-- **Data Scientist @ Evoastra Ventures Inc. :**
+- **Data Scientist @ Evoastra Ventures Inc. (Sep 2025 - Oct 2025) :**
   - Delivered business-impact technical solutions by analyzing large datasets and optimizing data-driven workflows.
   - Collaborated closely with project leads to **improve process efficiency by 20%** through clear progress updates and automation.
   - Contributed to live projects involving machine learning pipelines and data visualization dashboards.
-- **Data Analyst Associate @ Excelerate :**
+- **Data Analyst Associate @ Excelerate (Aug 2025 - Sep 2025) :**
   - Extracted, cleaned, and analyzed large-scale datasets using PostgreSQL, pgAdmin4, and Excel to identify key performance trends.
   - Developed dynamic dashboards in Google Looker Studio, improving stakeholder **decision visibility by 30%**.
   - Executed performance reports that enhanced understanding of business KPIs, leading to more data-informed planning.
