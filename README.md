@@ -31,19 +31,20 @@
 
 
 ## Skills 🪄 :
-- **Languages & Querying** : Python, R(Basics), SQL
-- **Tools** : PowerBI, Jupyter Notebook, PyCharm, MS Office, PostgreSQL
-- **Frame Works** : Numpy, Pandas, Matplotlib, Scikit-Learn
-- **Soft Skills** : Good Communication, Time Management, Team Work, Continuous Learning, Attention to detail.
+- **Programming :** Python, R(Basics), SQL.
+- **Machine Learning :** Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation, Ensemble Models, Model Deployment.
+- **Frameworks & Tools :** Numpy, Pandas, Matplotlib, Scikit-Learn, XGBoost, LightGBM, Jupyter Notebook, PyCharm, MS Office
+- **Visualization & Databases :** Power BI, Looker Studio, Excel, PostgreSQL, pgAdmin4
+- **Soft Skills :** Communication, Time Management, Team Leadership, Analytical Thinking, Attention to detail.
 
 
 
 ## Experience ✨ :
-- **Data Science with Advanced Gen AI @ Innomatics Research Labs (Nov 2025 - Present) :**
+- **Data Scientist with Advanced Gen AI @ Innomatics Research Labs (Nov 2025 - Present) :**
   -  Actively engaging in assigned projects, products, and trainings related to Data Science, Artificial Intelligence, Machine Learning, and GenAI.
   -  Applying theoretical concepts and putting best efforts into executing complex tasks to continuously upskill in advanced analytics and model development.
   -  Acknowledged the highly confidential nature of the association and the requirement to keep all business information strictly confidential.
-- **Project Management Associate @ Excelerate (Oct 2025 - Nov 2025) :**
+- **Associate Project Manager @ Excelerate (Oct 2025 - Nov 2025) :**
   - Led team efforts to develop a comprehensive project plan for a Global Career Fair.
   - Directed the team's research and assessment of AI project management tools for task automation, resource allocation and risk management.
   - Compiled and presented the team's consolidated research and testing insights, delivering actionable AI integration recommendations to project associates.
