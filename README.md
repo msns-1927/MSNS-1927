@@ -16,6 +16,10 @@
 
 
 ## My Projects 🥵 :
+- **Multi-Label Toxic Comment Detection :**
+  - This project implements a multi-label toxic comment classification system using classical Natural Language Processing (NLP) and machine learning techniques. The goal is to automatically identify different types of toxic behavior in online comments, where a single comment may belong to multiple categories such as toxic, obscene, insult, threat, severe toxic, and identity hate.
+  - The workflow includes data cleaning, feature engineering, and text vectorization using TF-IDF with unigrams and bigrams. A One-Vs-Rest Logistic Regression model is trained to handle the multi-label nature of the problem. Since the dataset is highly imbalanced, the model is evaluated using F1-score and ROC-AUC metrics rather than accuracy to ensure reliable performance assessment.
+  - This project demonstrates a complete end-to-end machine learning pipeline for text classification, with a focus on interpretability, proper evaluation, and best practices in handling real-world NLP data. [https://github.com/msns-1927/Multi-Label-Toxic-Comment-Detection]
 - **TelcoVision : AI-Powered Market Churn Prediction System :**
   - Developed a machine learning system to predict telecom subscriber churn across India (2009–2025). Used XGBoost, LightGBM, and Ensemble models with circle-wise and operator-wise data for accurate forecasting.Built an interactive dashboard for real-time churn monitoring, risk segmentation, and business impact insights.Delivered a production-ready solution supporting data-driven retention and revenue optimization strategies. [https://github.com/msns-1927/telecom_subscriptions_churn_prediction_sys]
 - **YouTube Video Downloader :**
