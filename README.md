@@ -16,6 +16,10 @@
 
 
 ## My Projects 🥵 :
+- **Flipkart Sentiment Analysis | End to End ML Project :**
+  - Built and deployed an end-to-end sentiment analysis system to classify Flipkart product reviews as positive or negative using NLP and machine learning.
+  - Preprocessed real-world review text and applied TF-IDF vectorization, training and evaluating multiple models to select the best one based on F1-score.
+  - Developed a Streamlit web application and deployed it on AWS EC2 to enable real-time sentiment prediction.[https://github.com/msns-1927/flipkart_sentiment_analysis_app]
 - **Multi-Label Toxic Comment Detection :**
   - This project implements a multi-label toxic comment classification system using classical Natural Language Processing (NLP) and machine learning techniques. The goal is to automatically identify different types of toxic behavior in online comments, where a single comment may belong to multiple categories such as toxic, obscene, insult, threat, severe toxic, and identity hate.
   - The workflow includes data cleaning, feature engineering, and text vectorization using TF-IDF with unigrams and bigrams. A One-Vs-Rest Logistic Regression model is trained to handle the multi-label nature of the problem. Since the dataset is highly imbalanced, the model is evaluated using F1-score and ROC-AUC metrics rather than accuracy to ensure reliable performance assessment.
