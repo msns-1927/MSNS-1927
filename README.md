@@ -16,6 +16,10 @@
 
 
 ## My Projects 🥵 :
+- **Career Advisor AI ChatBot 💼 :**
+  - **Designed and developed a production-ready AI Career Advisor chatbot using Python, Streamlit, and Google Gemini API**, implementing advanced prompt engineering to generate structured JSON-based career guidance including skills, certifications, learning roadmaps, and step-by-step action plans, with multi-turn conversation memory for contextual interactions.
+  - **Engineered a robust backend architecture with clean modular design**, integrating AI-based guardrail classification for responsible query filtering, structured response validation, retry mechanisms for API resilience, token usage tracking for cost monitoring, secure environment variable management, and comprehensive logging for observability.
+  - **Built an interactive Streamlit chat interface and successfully deployed the application on AWS EC2**, configuring security groups, virtual environments, public access endpoints, and cloud-based environment management to deliver a fully functional, scalable, and publicly accessible GenAI system. [https://github.com/msns-1927/Career-Advisor-AI-ChatBot]
 - **Flipkart Sentiment Analysis | End to End ML Project :**
   - Built and deployed an end-to-end sentiment analysis system to classify Flipkart product reviews as positive or negative using NLP and machine learning.
   - Preprocessed real-world review text and applied TF-IDF vectorization, training and evaluating multiple models to select the best one based on F1-score.
