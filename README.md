@@ -3,15 +3,16 @@
 
 
 
-- 📈 I’m interested in Data Science.
+- 📈 I’m an Aspiring Data Scientist & AI/ML Enthusiast.
 - 🎯 Currently working on Real-World Projects to skill up myself.
-- ✌️ I’m willing to collaborate on Machine Learning Projects.
+- ✌️ I’m willing to collaborate on Data Science, ML & NLP, AI & GenAI projects.
 - 🎓 Pursuing a Bachelor of Technology in Artificial Intelligence and Data Science.
-- 📡 How to contact me:
-  - Email : sivanarayanamuppidi11329@gmail.com
-  - LinkedIn : www.linkedin.com/in/siva-narayana-muppidi-413259230
 - 🌀 Pronouns : He/Him
 - 🥴 Fun fact : I'll cook when I'm stressed out.
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msns1927) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siva-narayana-muppidi-413259230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/msns1927) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivanarayanamuppidi11329@gmail.com)
 
 
 
