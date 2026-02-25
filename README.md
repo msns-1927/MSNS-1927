@@ -11,7 +11,7 @@
 - 🥴 Fun fact : I'll cook when I'm stressed out.
 
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msns1927) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-narayana-muppidi-413259230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/msns1927) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivanarayanamuppidi11329@gmail.com)
 
 
@@ -69,3 +69,10 @@
   - Extracted, cleaned, and analyzed large-scale datasets using PostgreSQL, pgAdmin4, and Excel to identify key performance trends.
   - Developed dynamic dashboards in Google Looker Studio, improving stakeholder **decision visibility by 30%**.
   - Executed performance reports that enhanced understanding of business KPIs, leading to more data-informed planning.
+
+
+# 📊 GitHub Stats :
+
+![](https://github-readme-stats.vercel.app/api?username=msns-1927&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=msns-1927&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=msns-1927&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
