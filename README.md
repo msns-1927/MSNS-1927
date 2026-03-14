@@ -44,11 +44,14 @@
 
 
 ## Skills 🪄 :
-- **Programming :** Python, R(Basics), SQL.
-- **Machine Learning :** Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation, Ensemble Models, Model Deployment.
-- **Frameworks & Tools :** Numpy, Pandas, Matplotlib, Scikit-Learn, XGBoost, LightGBM, Jupyter Notebook, PyCharm, MS Office
-- **Visualization & Databases :** Power BI, Looker Studio, Excel, PostgreSQL, pgAdmin4
-- **Soft Skills :** Communication, Time Management, Team Leadership, Analytical Thinking, Attention to detail.
+
+- **Programming & Querying:** Python, SQL, R (basics)
+- **Data Analysis:** Data cleaning, preprocessing, Exploratory Data Analysis (EDA), feature engineering
+- **Machine Learning:** Supervised & Unsupervised learning, model development, model evaluation, MLflow
+- **Deep Learning & AI:** Basic neural networks, NLP fundamentals, Generative AI concepts
+- **Tools & Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Databases & Platforms:** PostgreSQL, Kaggle
+- **Cloud & Deployment:** AWS EC2 fundamentals, GitHub
 
 
 
