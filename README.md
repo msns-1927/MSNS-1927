@@ -20,7 +20,10 @@
 
 
 ## My Projects 🥵 :
-- **Career Advisor AI ChatBot 💼 :**
+- **Vision2Text : AI-Powered-Image-Caption-Generator 🌐 :**
+  - An end-to-end Vision2Text system that generates context-aware captions from images using deep learning-based feature extraction and sequence modeling.
+  - The pipeline includes preprocessing, visual feature encoding, caption generation, and a Streamlit UI for real-time interaction. [https://github.com/msns-1927/Vision2Text-AI-Powered-Image-Caption-Generator]
+-  **Career Advisor AI ChatBot 💼 :**
   - **Designed and developed a production-ready AI Career Advisor chatbot using Python, Streamlit, and Google Gemini API**, implementing advanced prompt engineering to generate structured JSON-based career guidance including skills, certifications, learning roadmaps, and step-by-step action plans, with multi-turn conversation memory for contextual interactions.
   - **Engineered a robust backend architecture with clean modular design**, integrating AI-based guardrail classification for responsible query filtering, structured response validation, retry mechanisms for API resilience, token usage tracking for cost monitoring, secure environment variable management, and comprehensive logging for observability.
   - **Built an interactive Streamlit chat interface and successfully deployed the application on AWS EC2**, configuring security groups, virtual environments, public access endpoints, and cloud-based environment management to deliver a fully functional, scalable, and publicly accessible GenAI system. [https://github.com/msns-1927/Career-Advisor-AI-ChatBot]
