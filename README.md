@@ -75,4 +75,3 @@
   - Extracted, cleaned, and analyzed large-scale datasets using PostgreSQL, pgAdmin4, and Excel to identify key performance trends.
   - Developed dynamic dashboards in Google Looker Studio, improving stakeholder **decision visibility by 30%**.
   - Executed performance reports that enhanced understanding of business KPIs, leading to more data-informed planning.
-
