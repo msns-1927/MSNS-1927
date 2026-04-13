@@ -32,9 +32,14 @@
 
 
 ## My Projects 🥵 :
-- **Vision2Text : AI-Powered-Image-Caption-Generator 🌐 :**
-  - An end-to-end Vision2Text system that generates context-aware captions from images using deep learning-based feature extraction and sequence modeling.
-  - The pipeline includes preprocessing, visual feature encoding, caption generation, and a Streamlit UI for real-time interaction. [https://github.com/msns-1927/Vision2Text-AI-Powered-Image-Caption-Generator]
+
+- **Vid2Insight : Youtube Video to Articlr and Website Generator 📹 :**
+  - Vid2Insight is an AI-powered application that converts YouTube videos into well-structured, readable articles by extracting transcripts and processing them using large language models.
+  - It also allows users to customize tone, length, and model, and optionally generates a complete website (HTML, CSS, JS) with live preview and download options for both PDF and ZIP formats. [https://github.com/msns-1927/Vid2Insight-Youtube-Video-to-Article-and-Website-Generator]
+
+-  **Vision2Text : AI-Powered-Image-Caption-Generator 🌐 :**
+   - An end-to-end Vision2Text system that generates context-aware captions from images using deep learning-based feature extraction and sequence modeling.
+   - The pipeline includes preprocessing, visual feature encoding, caption generation, and a Streamlit UI for real-time interaction. [https://github.com/msns-1927/Vision2Text-AI-Powered-Image-Caption-Generator]
 -  **Career Advisor AI ChatBot 💼 :**
    - **Designed and developed a production-ready AI Career Advisor chatbot using Python, Streamlit, and Google Gemini API**, implementing advanced prompt engineering to generate structured JSON-based career guidance including skills, certifications, learning roadmaps, and step-by-step action plans, with multi-turn conversation memory for contextual interactions.
    - **Engineered a robust backend architecture with clean modular design**, integrating AI-based guardrail classification for responsible query filtering, structured response validation, retry mechanisms for API resilience, token usage tracking for cost monitoring, secure environment variable management, and comprehensive logging for observability.
