@@ -25,7 +25,7 @@
 - Natural Language Processing(NLP) : Text Classification, Transformer Models(BERT), Attention Mechanisms, Prompt Engineering, Large Language Model (LLM) Inference
 - Computer Vision : Image Processing & Captioning, VQA, Grad-CAM, Encoder – Decoder Architecture, Model Interpretability
 - Advanced AI Concepts : Multimodal Learning, Neuro-Symbolic AI, Graph-based Learning, Cross-Modal Reasoning, End-to-End AI Pipeline Design
-- Frameworks & Tools : Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, HuggingFace Transformers, Jupyter Notebook, Streamlit
+- Frameworks & Tools : Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, HuggingFace Transformers, LangGraph, LangChain, Jupyter Notebook, Streamlit
 - Data Analysis : Exploratory Data Analysis (EDA), Data Cleaning, Data Preprocessing, Data Transformation
 - Cloud & MLOps : AWS EC2, MLflow, Git, Production Deployment, Experiment Tracking
 - Visualization & Databases : Power BI, PostgreSQL, Dashboard Development
