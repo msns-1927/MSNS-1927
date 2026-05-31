@@ -35,7 +35,7 @@ Published in the International Journal for Research in Applied Science & Enginee
 🔬 Conducted research on improving the transparency, interpretability, and trustworthiness of multimodal Artificial Intelligence systems by integrating Explainable AI (XAI), causal reasoning, and multimodal deep learning techniques.
 
 ### 🚀 Research Highlights:
-- Proposed ECM²RS, an Explainable Causal Multi-Modal Reasoning System for Visual Question Answering (VQA).
+- Proposed ECM²RS framework, an Explainable Causal Multi-Modal Reasoning System for Visual Question Answering (VQA).
 - Combined ResNet50, BERT, and LLaVA for multimodal reasoning across image and text inputs.
 - Implemented Grad-CAM visual explanations and attention-based textual explanations to improve model interpretability.
 - Integrated causal reasoning mechanisms to mitigate language bias and improve prediction reliability.
