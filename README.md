@@ -1,12 +1,10 @@
 # Hi there👋, I'm Siva ;
 ## About me 🌟 :
 
-
-
 - 📈 I’m an Aspiring Data Scientist & AI/ML Enthusiast.
 - 🎯 Currently working on Real-World Projects to skill up myself.
 - ✌️ I’m willing to collaborate on Data Science, ML & NLP, AI & GenAI projects.
-- 🎓 Pursuing a Bachelor of Technology in Artificial Intelligence and Data Science.
+- 🎓 Recent graduate in Bachelor of Technology specializing in **Artificial Intelligence and Data Science.**
 - 🌀 Pronouns : He/Him
 - 🥴 Fun fact : I'll cook when I'm stressed out.
 
@@ -17,6 +15,46 @@
 ## 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msns1927) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-narayana-muppidi-413259230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/msns1927) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivanarayanamuppidi11329@gmail.com)
 
+## 🔬📖📝 Research & Publication:
+### 📄 ECM²RS: Explainable Causal Multi-Modal Reasoning System
+Published in the International Journal for Research in Applied Science & Engineering Technology (IJRASET), Volume 14, Issue IV, April 2026.
+
+🔬 Conducted research on improving the transparency, interpretability, and trustworthiness of multimodal Artificial Intelligence systems by integrating Explainable AI (XAI), causal reasoning, and multimodal deep learning techniques.
+
+### 🚀 Research Highlights:
+- Proposed ECM²RS, an Explainable Causal Multi-Modal Reasoning System for Visual Question Answering (VQA).
+- Combined ResNet50, BERT, and LLaVA for multimodal reasoning across image and text inputs.
+- Implemented Grad-CAM visual explanations and attention-based textual explanations to improve model interpretability.
+- Integrated causal reasoning mechanisms to mitigate language bias and improve prediction reliability.
+- Leveraged knowledge-supported reasoning using benchmark datasets including ScienceQA, CLEVR, and VQA.
+- Designed a framework capable of generating transparent, human-understandable reasoning alongside predictions.
+
+### 🛠 Research Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-6A1B9A?style=for-the-badge)
+![ResNet50](https://img.shields.io/badge/ResNet50-009688?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FF9800?style=for-the-badge)
+![LLaVA-Next](https://img.shields.io/badge/LLaVA-4CAF50?style=for-the-badge)
+![Attention Mechanism](https://img.shields.io/badge/Attention%20Mechanism-yellow?style=for-the-badge)
+![Causal Reasoning](https://img.shields.io/badge/Causal%20Reasoning-purple?style=for-the-badge)
+![Neuro-Symbolic AI](https://img.shields.io/badge/Neuro--Symbolic%20AI-darkgreen?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-XAI-blue?style=for-the-badge)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-E53935?style=for-the-badge)
+
+### 📊 Datasets Used:
+- VQA (Visual Question Answering)
+- CLEVR
+- ScienceQA
+
+### 🎯 Research Impact:
+
+The proposed framework enhances transparency, interpretability, and trustworthiness in AI decision-making by transforming black-box multimodal models into systems capable of providing human-understandable reasoning. This contributes toward the development of reliable AI solutions for domains such as healthcare, education, and intelligent decision-support systems.
+
+**🔗 DOI:** https://doi.org/10.22214/ijraset.2026.80540
 
 ## Technical Skills 🪄 :
 
