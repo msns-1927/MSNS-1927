@@ -15,6 +15,19 @@
 ## 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msns1927) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-narayana-muppidi-413259230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/msns1927) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivanarayanamuppidi11329@gmail.com)
 
+## Technical Skills 🪄 :
+
+- Programming & Querying : Python, SQL, R(Basics)
+- Machine Learning & AI : Supervised/Unsupervised Learning, Feature Engineering, Predictive Modeling, Model Evaluation, Ensemble Models
+- Natural Language Processing(NLP) : Text Classification, Transformer Models(BERT), Attention Mechanisms, Prompt Engineering, Large Language Model (LLM) Inference
+- Computer Vision : Image Processing & Captioning, VQA, Grad-CAM, Encoder – Decoder Architecture, Model Interpretability
+- Advanced AI Concepts : Multimodal Learning, Neuro-Symbolic AI, Graph-based Learning, Cross-Modal Reasoning, End-to-End AI Pipeline Design
+- Frameworks & Tools : Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, HuggingFace Transformers, LangGraph, LangChain, Jupyter Notebook, Streamlit
+- Data Analysis : Exploratory Data Analysis (EDA), Data Cleaning, Data Preprocessing, Data Transformation
+- Cloud & MLOps : AWS EC2, MLflow, Git, Production Deployment, Experiment Tracking
+- Visualization & Databases : Power BI, PostgreSQL, Dashboard Development
+
+
 ## 🔬📖📝 Research & Publication:
 ### 📄 ECM²RS: Explainable Causal Multi-Modal Reasoning System
 Published in the International Journal for Research in Applied Science & Engineering Technology (IJRASET), Volume 14, Issue IV, April 2026.
@@ -55,18 +68,6 @@ Published in the International Journal for Research in Applied Science & Enginee
 The proposed framework enhances transparency, interpretability, and trustworthiness in AI decision-making by transforming black-box multimodal models into systems capable of providing human-understandable reasoning. This contributes toward the development of reliable AI solutions for domains such as healthcare, education, and intelligent decision-support systems.
 
 **🔗 DOI:** https://doi.org/10.22214/ijraset.2026.80540
-
-## Technical Skills 🪄 :
-
-- Programming & Querying : Python, SQL, R(Basics)
-- Machine Learning & AI : Supervised/Unsupervised Learning, Feature Engineering, Predictive Modeling, Model Evaluation, Ensemble Models
-- Natural Language Processing(NLP) : Text Classification, Transformer Models(BERT), Attention Mechanisms, Prompt Engineering, Large Language Model (LLM) Inference
-- Computer Vision : Image Processing & Captioning, VQA, Grad-CAM, Encoder – Decoder Architecture, Model Interpretability
-- Advanced AI Concepts : Multimodal Learning, Neuro-Symbolic AI, Graph-based Learning, Cross-Modal Reasoning, End-to-End AI Pipeline Design
-- Frameworks & Tools : Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, HuggingFace Transformers, LangGraph, LangChain, Jupyter Notebook, Streamlit
-- Data Analysis : Exploratory Data Analysis (EDA), Data Cleaning, Data Preprocessing, Data Transformation
-- Cloud & MLOps : AWS EC2, MLflow, Git, Production Deployment, Experiment Tracking
-- Visualization & Databases : Power BI, PostgreSQL, Dashboard Development
 
 
 ## My Projects 🥵 :
