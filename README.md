@@ -104,7 +104,7 @@ The proposed framework enhances transparency, interpretability, and trustworthin
 
 
 ## Experience ✨ :
-- **Data Scientist with Advanced Gen AI @ Innomatics Research Labs (Nov 2025 - Present) :**
+- **Data Scientist with Advanced Gen AI @ Innomatics Research Labs (Nov 2025 - April 2026) :**
   -  Actively engaging in assigned projects, products, and trainings related to Data Science, Artificial Intelligence, Machine Learning, and GenAI.
   -  Applying theoretical concepts and putting best efforts into executing complex tasks to continuously upskill in advanced analytics and model development.
   -  Acknowledged the highly confidential nature of the association and the requirement to keep all business information strictly confidential.
