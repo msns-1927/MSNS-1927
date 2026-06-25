@@ -105,9 +105,9 @@ The proposed framework enhances transparency, interpretability, and trustworthin
 
 ## Experience ✨ :
 - **Data Scientist with Advanced Gen AI @ Innomatics Research Labs (Nov 2025 - April 2026) :**
-  -  Actively engaging in assigned projects, products, and trainings related to Data Science, Artificial Intelligence, Machine Learning, and GenAI.
-  -  Applying theoretical concepts and putting best efforts into executing complex tasks to continuously upskill in advanced analytics and model development.
-  -  Acknowledged the highly confidential nature of the association and the requirement to keep all business information strictly confidential.
+  - Completed a two-phase Data Science with Advanced Generative AI internship, building strong foundations in traditional Machine Learning, MLOps, and modern Generative AI through multiple end-to-end projects.
+  - **Phase 1 – Data Analysis & Application Development** – Built proficiency in Python, Exploratory Data Analysis, and problem-solving; developed Flask-based backend applications by performing end-to-end data preprocessing, feature engineering, and analysis on real-world datasets to derive actionable insights.
+  - **Phase 2 – Generative AI & Agentic Systems** – Gained hands-on expertise in MLOps, Advanced Prompt Engineering, LangChain, LangGraph, AI Agents, and RAG pipelines, with practical experience deploying production-grade GenAI applications using AWS EC2 and AWS Bedrock for cloud-based LLM inference.
 - **Associate Project Manager @ Excelerate (Oct 2025 - Nov 2025) :**
   - Led team efforts to develop a comprehensive project plan for a Global Career Fair.
   - Directed the team's research and assessment of AI project management tools for task automation, resource allocation and risk management.
