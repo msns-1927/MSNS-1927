@@ -1,129 +1,282 @@
 # Hi there👋, I'm Siva ;
 ## About me 🌟 :
 
-- 📈 I’m an Aspiring Data Scientist & AI/ML Enthusiast.
-- 🎯 Currently working on Real-World Projects to skill up myself.
-- ✌️ I’m willing to collaborate on Data Science, ML & NLP, AI & GenAI projects.
-- 🎓 Recent graduate in Bachelor of Technology specializing in **Artificial Intelligence and Data Science.**
-- 🌀 Pronouns : He/Him
-- 🥴 Fun fact : I'll cook when I'm stressed out.
+> Recent B.Tech graduate in Artificial Intelligence & Data Science, focused on building practical, end-to-end intelligent systems.
 
-## 💻 Tech Stack :
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+> Hands-on experience across Machine Learning, Deep Learning, Generative AI, LLMs, RAG, AI Agents, NLP, Computer Vision, and Multimodal AI.
 
+> Experienced in developing AI applications from data preprocessing and model development to API integration, testing, deployment, and user-facing interfaces.
 
-## 🌐 Socials :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msns1927) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-narayana-muppidi-413259230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/msns1927) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivanarayanamuppidi11329@gmail.com)
+> Built projects involving RAG-based learning assistants, multi-agent data science systems, medical AI, conversational AI, image captioning, multimodal reasoning, and full-stack AI applications.
 
-## Technical Skills 🪄 :
+> Comfortable working with Python, SQL, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph, FastAPI, Flask, Streamlit, React, PostgreSQL, ChromaDB, AWS, and GCP.
 
-- Programming & Querying : Python, SQL, R(Basics)
-- Machine Learning & AI : Supervised/Unsupervised Learning, Feature Engineering, Predictive Modeling, Model Evaluation, Ensemble Models
-- Natural Language Processing(NLP) : Text Classification, Transformer Models(BERT), Attention Mechanisms, Prompt Engineering, Large Language Model (LLM) Inference
-- Computer Vision : Image Processing & Captioning, VQA, Grad-CAM, Encoder – Decoder Architecture, Model Interpretability
-- Advanced AI Concepts : Multimodal Learning, Neuro-Symbolic AI, Graph-based Learning, Cross-Modal Reasoning, End-to-End AI Pipeline Design
-- Frameworks & Tools : Numpy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, HuggingFace Transformers, LangGraph, LangChain, Jupyter Notebook, Streamlit
-- Data Analysis : Exploratory Data Analysis (EDA), Data Cleaning, Data Preprocessing, Data Transformation
-- Cloud & MLOps : AWS EC2, MLflow, Git, Production Deployment, Experiment Tracking
-- Visualization & Databases : Power BI, PostgreSQL, Dashboard Development
+> Published research on ECM²RS — Explainable Causal Multi-Modal Reasoning System, focusing on explainable and causal multimodal reasoning.
 
+> Interested in building reliable, explainable, scalable, and production-oriented AI systems that solve real-world problems.
 
-## 🔬📖📝 Research & Publication:
-### 📄 ECM²RS: Explainable Causal Multi-Modal Reasoning System
-Published in the International Journal for Research in Applied Science & Engineering Technology (IJRASET), Volume 14, Issue IV, April 2026.
-
-🔬 Conducted research on improving the transparency, interpretability, and trustworthiness of multimodal Artificial Intelligence systems by integrating Explainable AI (XAI), causal reasoning, and multimodal deep learning techniques.
-
-### 🚀 Research Highlights:
-- Proposed ECM²RS framework, an Explainable Causal Multi-Modal Reasoning System for Visual Question Answering (VQA).
-- Combined ResNet50, BERT, and LLaVA for multimodal reasoning across image and text inputs.
-- Implemented Grad-CAM visual explanations and attention-based textual explanations to improve model interpretability.
-- Integrated causal reasoning mechanisms to mitigate language bias and improve prediction reliability.
-- Leveraged knowledge-supported reasoning using benchmark datasets including ScienceQA, CLEVR, and VQA.
-- Designed a framework capable of generating transparent, human-understandable reasoning alongside predictions.
-
-### 🛠 Research Tech Stack:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-6A1B9A?style=for-the-badge)
-![ResNet50](https://img.shields.io/badge/ResNet50-009688?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-FF9800?style=for-the-badge)
-![LLaVA-Next](https://img.shields.io/badge/LLaVA-4CAF50?style=for-the-badge)
-![Attention Mechanism](https://img.shields.io/badge/Attention%20Mechanism-yellow?style=for-the-badge)
-![Causal Reasoning](https://img.shields.io/badge/Causal%20Reasoning-purple?style=for-the-badge)
-![Neuro-Symbolic AI](https://img.shields.io/badge/Neuro--Symbolic%20AI-darkgreen?style=for-the-badge)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-XAI-blue?style=for-the-badge)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-E53935?style=for-the-badge)
-
-### 📊 Datasets Used:
-- VQA (Visual Question Answering)
-- CLEVR
-- ScienceQA
-
-### 🎯 Research Impact:
-
-The proposed framework enhances transparency, interpretability, and trustworthiness in AI decision-making by transforming black-box multimodal models into systems capable of providing human-understandable reasoning. This contributes toward the development of reliable AI solutions for domains such as healthcare, education, and intelligent decision-support systems.
-
-**🔗 DOI:** https://doi.org/10.22214/ijraset.2026.80540
-
-
-## My Projects 🥵 :
-
-- **Vid2Insight : Youtube Video to Articlr and Website Generator 📹 :**
-  - Vid2Insight is an AI-powered application that converts YouTube videos into well-structured, readable articles by extracting transcripts and processing them using large language models.
-  - It also allows users to customize tone, length, and model, and optionally generates a complete website (HTML, CSS, JS) with live preview and download options for both PDF and ZIP formats. [https://github.com/msns-1927/Vid2Insight-Youtube-Video-to-Article-and-Website-Generator]
-
--  **Vision2Text : AI-Powered-Image-Caption-Generator 🌐 :**
-   - An end-to-end Vision2Text system that generates context-aware captions from images using deep learning-based feature extraction and sequence modeling.
-   - The pipeline includes preprocessing, visual feature encoding, caption generation, and a Streamlit UI for real-time interaction. [https://github.com/msns-1927/Vision2Text-AI-Powered-Image-Caption-Generator]
--  **Career Advisor AI ChatBot 💼 :**
-   - **Designed and developed a production-ready AI Career Advisor chatbot using Python, Streamlit, and Google Gemini API**, implementing advanced prompt engineering to generate structured JSON-based career guidance including skills, certifications, learning roadmaps, and step-by-step action plans, with multi-turn conversation memory for contextual interactions.
-   - **Engineered a robust backend architecture with clean modular design**, integrating AI-based guardrail classification for responsible query filtering, structured response validation, retry mechanisms for API resilience, token usage tracking for cost monitoring, secure environment variable management, and comprehensive logging for observability.
-   - **Built an interactive Streamlit chat interface and successfully deployed the application on AWS EC2**, configuring security groups, virtual environments, public access endpoints, and cloud-based environment management to deliver a fully functional, scalable, and publicly accessible GenAI system. [https://github.com/msns-1927/Career-Advisor-AI-ChatBot]
-- **Flipkart Sentiment Analysis | End to End ML Project :**
-  - Built and deployed an end-to-end sentiment analysis system to classify Flipkart product reviews as positive or negative using NLP and machine learning.
-  - Preprocessed real-world review text and applied TF-IDF vectorization, training and evaluating multiple models to select the best one based on F1-score.
-  - Developed a Streamlit web application and deployed it on AWS EC2 to enable real-time sentiment prediction.[https://github.com/msns-1927/flipkart_sentiment_analysis_app]
-- **Multi-Label Toxic Comment Detection :**
-  - This project implements a multi-label toxic comment classification system using classical Natural Language Processing (NLP) and machine learning techniques. The goal is to automatically identify different types of toxic behavior in online comments, where a single comment may belong to multiple categories such as toxic, obscene, insult, threat, severe toxic, and identity hate.
-  - The workflow includes data cleaning, feature engineering, and text vectorization using TF-IDF with unigrams and bigrams. A One-Vs-Rest Logistic Regression model is trained to handle the multi-label nature of the problem. Since the dataset is highly imbalanced, the model is evaluated using F1-score and ROC-AUC metrics rather than accuracy to ensure reliable performance assessment.
-  - This project demonstrates a complete end-to-end machine learning pipeline for text classification, with a focus on interpretability, proper evaluation, and best practices in handling real-world NLP data. [https://github.com/msns-1927/Multi-Label-Toxic-Comment-Detection]
-- **TelcoVision : AI-Powered Market Churn Prediction System :**
-  - Developed a machine learning system to predict telecom subscriber churn across India (2009–2025). Used XGBoost, LightGBM, and Ensemble models with circle-wise and operator-wise data for accurate forecasting.Built an interactive dashboard for real-time churn monitoring, risk segmentation, and business impact insights.Delivered a production-ready solution supporting data-driven retention and revenue optimization strategies. [https://github.com/msns-1927/telecom_subscriptions_churn_prediction_sys]
-- **YouTube Video Downloader :**
-  - Developed a Python desktop application with Tkinter enabling easy YouTube video/audio downloads in multiple formats. Integrated yt-dlp and ffmpeg for efficient downloads, audio extraction, and conversion. Designed a simple interface with folder selection, error handling, and progress feedback, making content downloading accessible without command-line complexity. [https://github.com/msns-1927/yt_vd_downloader]
-- **TED Talks Data Analysis & Visualization :**
-  - Preprocessed and analyzed the TED Talks dataset to explore patterns in speaker popularity and engagement.
-  - Built and tuned binary classification models using hyperparameter optimization, achieving an accuracy improvement of 15% over baseline models.
-  - Visualized topic trends and feature importance insights to guide future recommendation systems.
-- **Marigold Harvesting Project (Community Service) :**
-  - Led a data collection and optimization initiative to improve yield prediction and resource allocation for agricultural efficiency.
-
-
-## Experience ✨ :
-- **Data Scientist with Advanced Gen AI @ Innomatics Research Labs (Nov 2025 - April 2026) :**
-  - Completed a two-phase Data Science with Advanced Generative AI internship, building strong foundations in traditional Machine Learning, MLOps, and modern Generative AI through multiple end-to-end projects.
-  - **Phase 1 – Data Analysis & Application Development** – Built proficiency in Python, Exploratory Data Analysis, and problem-solving; developed Flask-based backend applications by performing end-to-end data preprocessing, feature engineering, and analysis on real-world datasets to derive actionable insights.
-  - **Phase 2 – Generative AI & Agentic Systems** – Gained hands-on expertise in MLOps, Advanced Prompt Engineering, LangChain, LangGraph, AI Agents, and RAG pipelines, with practical experience deploying production-grade GenAI applications using AWS EC2 and AWS Bedrock for cloud-based LLM inference.
-- **Associate Project Manager @ Excelerate (Oct 2025 - Nov 2025) :**
-  - Led team efforts to develop a comprehensive project plan for a Global Career Fair.
-  - Directed the team's research and assessment of AI project management tools for task automation, resource allocation and risk management.
-  - Compiled and presented the team's consolidated research and testing insights, delivering actionable AI integration recommendations to project associates.
-- **Data Scientist @ Evoastra Ventures Inc. (Sep 2025 - Oct 2025) :**
-  - Delivered business-impact technical solutions by analyzing large datasets and optimizing data-driven workflows.
-  - Collaborated closely with project leads to **improve process efficiency by 20%** through clear progress updates and automation.
-  - Contributed to live projects involving machine learning pipelines and data visualization dashboards.
-- **Data Analyst Associate @ Excelerate (Aug 2025 - Sep 2025) :**
-  - Extracted, cleaned, and analyzed large-scale datasets using PostgreSQL, pgAdmin4, and Excel to identify key performance trends.
-  - Developed dynamic dashboards in Google Looker Studio, improving stakeholder **decision visibility by 30%**.
-  - Executed performance reports that enhanced understanding of business KPIs, leading to more data-informed planning.
+> Open to opportunities in AI/ML Engineering, Data Science, Generative AI, Machine Learning, and related engineering roles.
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=msns-1927&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=msns-1927&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=msns-1927&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://github.com/msns-1927" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/siva-narayana-muppidi-413259230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sivanarayanamuppidi11329@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+
+## 🧠 Technical Skills:
+
+- **Programming & Data:** Python, SQL, R, EDA, Data Preprocessing, Feature Engineering, Data Visualization
+- **Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Clustering, Ensemble Learning, Model Evaluation
+- **Deep Learning:** CNN, RNN, LSTM, Transfer Learning, Image Classification, Image Captioning
+- **NLP:** Text Classification, Sentiment Analysis, TF-IDF, BERT, Multi-Label Classification
+- **Generative AI:** LLMs, Prompt Engineering, RAG, AI Agents, LangChain, LangGraph, Structured Outputs
+- **Computer Vision:** Image Processing, VQA, Multimodal Learning, LLaVA, Grad-CAM, Explainable AI
+- **AI Engineering:** FastAPI, Flask, Streamlit, REST APIs, React, PostgreSQL, ChromaDB
+- **MLOps & Cloud:** AWS EC2, AWS Bedrock, GCP, MLflow, Git, Model Deployment, Testing
+
+
+
+
+## 🔬 Research & Publication:
+
+### ECM²RS — Explainable Causal Multi-Modal Reasoning System
+
+**Published in:** International Journal for Research in Applied Science & Engineering Technology (IJRASET), 2026
+
+ECM²RS is an explainable multimodal reasoning framework designed to address the **black-box behavior of AI models** by integrating visual understanding, language reasoning, causal analysis, and explainability techniques to make multimodal decision-making more transparent and interpretable.
+
+**Research Focus :**
+- Addressing black-box behavior in multimodal AI systems
+- Explainable AI and model interpretability
+- Causal reasoning for transparent decision-making
+- Multimodal visual and textual reasoning
+- Visual Question Answering (VQA)
+- Mitigating language and dataset biases
+
+**Core Technologies :**
+`ResNet50` `BERT` `LLaVA` `Grad-CAM` `Causal Reasoning`
+
+**Datasets :**
+`VQA COCO 2017` `CLEVR` `ScienceQA`
+
+**Key Contributions :**
+- Developed a multimodal reasoning pipeline integrating vision and language models.
+- Incorporated Grad-CAM and textual explanations to improve model interpretability.
+- Introduced causal reasoning to provide more transparent reasoning pathways.
+- Investigated approaches for reducing the black-box nature of multimodal AI decision-making.
+- Evaluated the framework across multiple multimodal reasoning benchmarks.
+
+**Publication :**
+- **Journal:** IJRASET
+- **Volume:** 14
+- **Issue:** IV
+- **Year:** 2026
+- **DOI:** [10.22214/ijraset.2026.80540](https://doi.org/10.22214/ijraset.2026.80540)
+
+
+
+
+## 🚀 Featured Projects:
+
+### 🏥 Advanced AI Medical Intelligence Platform
+AI-powered medical intelligence platform for chest X-ray analysis, disease prediction, explainable AI, and AI-assisted medical reporting.
+
+**Tech:** `Python` `EfficientNet` `Grad-CAM` `Flask` `REST API` `Groq` `PostgreSQL`
+
+- Trained an EfficientNet-based pneumonia classification model on chest X-ray images.
+- Implemented Grad-CAM to provide visual explanations for model predictions.
+- Developed REST APIs for image analysis, prediction, and explainability workflows.
+- Integrated LLM-based medical report generation using structured model outputs.
+- Built an end-to-end workflow connecting AI inference, explainability, APIs, database, and application interface.
+
+🔗 [Repository](https://github.com/msns-1927/Advanced-AI-Medical-Intelligence-Platform)
+
+---
+
+### 📚 StudyVault — Personal Learning Assistant
+RAG-based personal learning assistant that enables users to interact with their documents through semantic retrieval and context-aware AI responses.
+
+**Tech:** `Python` `FastAPI` `Streamlit` `ChromaDB` `Sentence Transformers` `RAG` `LLM` `Pytest`
+
+- Built a document ingestion and processing pipeline for learning materials and PDFs.
+- Implemented text chunking, embeddings, vector storage, and semantic retrieval using ChromaDB.
+- Developed context-aware question answering with source citations and conversation memory.
+- Implemented relevance-based retrieval using configurable similarity thresholds.
+- Added automated tests covering chunking, embeddings, retrieval, vector storage, and RAG workflows.
+- Designed the system with modular services for retrieval, vector storage, and LLM interaction.
+
+🔗 [Repository](https://github.com/msns-1927/StudyVault-Personal-Learning-Assistant)
+
+---
+
+### 🤖 Data Detective AI — Autonomous Multi-Agent Data Science Copilot
+Multi-agent AI system designed to automate key stages of a data science workflow from dataset profiling to analytical insights and machine learning recommendations.
+
+**Tech:** `Python` `Generative AI` `AI Agents` `GCP` `Pandas` `Machine Learning`
+
+- Developed specialized agents for data profiling, analytics, ML recommendations, insights, and report generation.
+- Automated exploratory analysis and identification of important dataset patterns.
+- Integrated LLM-powered reasoning for natural-language analytical insights.
+- Designed an agentic workflow for transforming raw datasets into structured analytical reports.
+- Deployed the application using Google Cloud Platform.
+
+🔗 [Repository](https://github.com/msns-1927/Data-Detective-AI-Autonomous-Multi-Agent-Data-Science-Copilot)
+
+---
+
+### 💼 ClaimFlow AI — Intelligent Expense Claims Management Platform
+Full-stack expense claims management platform for submitting, tracking, validating, and auditing employee expense claims.
+
+**Tech:** `FastAPI` `React` `PostgreSQL` `JWT` `REST API` `JavaScript`
+
+- Developed a FastAPI backend with authentication, claims, receipts, and audit-log workflows.
+- Built a React frontend for user authentication and expense claim management.
+- Implemented JWT-based authorization and protected API endpoints.
+- Designed PostgreSQL data models for users, claims, receipts, and audit records.
+- Connected the frontend and backend through REST APIs.
+- Deployed the backend and frontend as separate web services.
+
+🔗 [Repository](https://github.com/msns-1927/ClaimFlow-AI-Intelligent-Expense-Claims-Management-Platform)
+
+---
+
+### 🧭 Career Advisor AI Chatbot
+AI-powered career guidance application providing personalized career recommendations, skill analysis, learning roadmaps, and actionable development plans.
+
+**Tech:** `Python` `Streamlit` `Gemini` `Prompt Engineering` `AWS EC2`
+
+- Built a conversational AI application with multi-turn conversation memory.
+- Designed structured prompts and JSON-based outputs for consistent responses.
+- Implemented guardrail classification and response validation.
+- Added retry mechanisms, logging, and token usage tracking.
+- Deployed the application on AWS EC2.
+
+🔗 [Repository](https://github.com/msns-1927/Career-Advisor-AI-ChatBot)
+
+---
+
+### 🔬 ECM²RS — Explainable Causal Multi-Modal Reasoning System
+Research project focused on addressing the **black-box behavior of multimodal AI systems** through explainable and causal reasoning.
+
+**Tech:** `ResNet50` `BERT` `LLaVA` `Grad-CAM` `Causal Reasoning`
+
+- Developed a multimodal reasoning framework combining visual and language representations.
+- Integrated Grad-CAM for visual explanations of model predictions.
+- Incorporated textual explanations and causal reasoning to improve reasoning transparency.
+- Investigated multimodal reasoning across VQA COCO 2017, CLEVR, and ScienceQA datasets.
+- Research published in IJRASET, 2026.
+
+🔗 [Publication](https://doi.org/10.22214/ijraset.2026.80540)
+
+---
+
+### 🖼️ Vision2Text — AI Powered Image Caption Generator
+Deep learning-based image captioning system that generates natural-language descriptions from images.
+
+**Tech:** `Python` `TensorFlow` `VGG16` `LSTM` `Flickr8k` `Streamlit`
+
+- Built an encoder-decoder image captioning architecture using VGG16 and LSTM.
+- Used transfer learning for visual feature extraction.
+- Trained the model on the Flickr8k dataset containing 8,000 images with multiple captions per image.
+- Evaluated generated captions using BLEU score.
+- Achieved a BLEU score of approximately **0.29**.
+- Developed a Streamlit interface for interactive image caption generation.
+
+🔗 [Repository](https://github.com/msns-1927/Vision2Text-AI-Powered-Image-Caption-Generator)
+
+---
+
+### 🎥 Vid2Insight — YouTube Video to Article & Website Generator
+Generative AI application that transforms YouTube video transcripts into structured articles and downloadable websites.
+
+**Tech:** `Python` `LangChain` `Groq` `Streamlit` `LLMs`
+
+- Extracted and processed YouTube video transcripts.
+- Used LLM-powered generation to create structured articles from video content.
+- Added controls for tone, length, and generation configuration.
+- Generated complete HTML/CSS/JavaScript websites from the processed content.
+- Provided interactive previews and downloadable website packages.
+
+🔗 [Repository](https://github.com/msns-1927/Vid2Insight-Youtube-Video-to-Article-and-Website-Generator)
+
+---
+
+## 📊 Other Machine Learning Projects:
+
+| Project | Focus | Technologies |
+|---|---|---|
+| **TelcoVision** | Telecom Churn Prediction | XGBoost · LightGBM · ML · Streamlit |
+| **Flipkart Sentiment Analysis** | Sentiment Classification | NLP · TF-IDF · ML · Streamlit |
+| **Multi-Label Toxic Comment Detection** | Multi-Label NLP Classification | TF-IDF · Logistic Regression · NLP |
+
+
+
+
+## 💼 Experience:
+
+### Data Scientist — Advanced Generative AI
+**Innomatics Research Labs** · Internship  
+`Nov 2025 – Apr 2026`
+
+- Worked on end-to-end **Machine Learning, Generative AI, RAG, and AI Agent** workflows.
+- Developed ML pipelines involving data preprocessing, EDA, feature engineering, model training, and evaluation.
+- Built LLM-powered applications using **LangChain, LangGraph, prompt engineering, and RAG**.
+- Worked with AI agent workflows for task automation and intelligent decision-making.
+- Applied **MLOps practices** including experiment tracking and model deployment.
+- Deployed AI/ML applications using **AWS EC2** and explored cloud-based AI services.
+
+### Associate Project Manager
+**Excelerate** · Internship  
+`Oct 2025 – Nov 2025`
+
+- Coordinated project activities involving planning, task management, resource allocation, and delivery tracking.
+- Worked with cross-functional teams to organize project workflows and milestones.
+- Researched and evaluated AI-powered tools for improving project management and workflow automation.
+- Contributed to project documentation, risk identification, and process improvement.
+
+### Data Scientist
+**Evoastra Ventures Pvt. Ltd.** · Internship  
+`Sep 2025 – Oct 2025`
+
+- Worked on data analysis and machine learning workflows for real-world datasets.
+- Performed data preprocessing, exploratory data analysis, feature engineering, and visualization.
+- Contributed to developing and evaluating machine learning models.
+- Used data-driven insights to support project analysis and decision-making.
+
+### Data Analyst Associate
+**Excelerate** · Internship  
+`Aug 2025 – Sep 2025`
+
+- Performed data cleaning, transformation, and exploratory analysis using **SQL, Excel, and PostgreSQL**.
+- Developed interactive dashboards and reports using **Looker Studio**.
+- Analyzed KPIs and business metrics to identify trends and actionable insights.
+- Supported data-driven reporting and visualization for project stakeholders.
+
+
+
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=msns-1927&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=msns-1927&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=msns-1927&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
