@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Siva Narayana Muppidi
+# 👋 Hi, I'm Siva
 
 ### AI/ML Engineer | Data Science | Generative AI
 
